@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.mainhtml.dev/project/">
-        <img src="https://www.mainhtml.dev/image/mainhtml-logo.png" alt="Main HTML Logo" width="1075" height="300">
+        <img src="https://www.mainhtml.dev/images/mainhtml-logo.png" alt="Main HTML Logo" width="1075" height="300">
     </a>
 </p>
 
