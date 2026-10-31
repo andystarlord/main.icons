@@ -20,14 +20,15 @@ This functionality is platform agnostic, accessibility aware and has no need for
 ## Getting started
 Several quick start options are available:
 
-- Clone the repo: `git clone https://github.com/andyfutcher/main.icons`
+- Clone the repo: `git clone https://github.com/andystarlord/main.icons`
 
 
 ## Change log
+Version 0.7 - Name change
 Version 0.7-beta - Initial Release 
 
 
 ### About the developer
 
-Copyright (C) 2025 **Andy Futcher**, I am the developer and maintainer of Main JS and Main HTML project and professional analyst at a not-for-profit health insurer.
+Copyright (C) 2025 **Andy Starlord**, I am the developer and maintainer of Main JS and Main HTML project and professional analyst at a not-for-profit health insurer.
 Main JS is free and open source and will always be, my goal is to give everyone possible a first class ticket to the most well known and well-written markup language on earth; HTML. This is not just because of the projects chosen licence (GPLv3,) but it's a commitment to remain impartial and community focused and to never sell out or steer Main JS away from the core focus of portability and maintainability.
